@@ -1,0 +1,5 @@
+* text=auto eol=lf
+# Consumer pins hash exact source and notice bytes across platforms.
+source/** -text
+LICENSE -text
+NOTICE.md -text
